@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/MichaelS11/go-dht v0.1.0
-	github.com/aws/aws-lambda-go v1.26.0 // indirect
+	github.com/aws/aws-lambda-go v1.26.0
 	github.com/aws/aws-sdk-go v1.40.22
 	github.com/eclipse/paho.mqtt.golang v1.3.5
 	github.com/getsentry/sentry-go v0.11.0
